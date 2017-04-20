@@ -1,5 +1,6 @@
 body {
     background: url("../images/outerspace_landscape.jpeg") no-repeat center fixed;
+    background-size: cover;
 }
 
 nav ul,li {
@@ -42,13 +43,13 @@ main img {
 
 .cat-image {
     position: absolute;
-left: 70px;
+left: 242px;
 top: -110px;
 }
 
 .dog-image {
     position: absolute;
-    left: 665px;
+    left: 843px;
     top: 155px;
 }
 
